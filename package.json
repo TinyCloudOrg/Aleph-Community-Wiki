@@ -5,11 +5,12 @@
   "type": "module",
   "scripts": {
     "cli": "tsx src/index.ts",
-    "build": "bun cli generate",
+    "generate": "bun cli generate",
     "start": "bun cli serve",
-    "prestart": "bun run build",
+    "prestart": "bun cli generate",
     "publish": "bun cli publish",
     "lint": "eslint src/**/*.ts",
+    "update": "bun cli generate && bun cli publish",
     "format": "prettier --write src"
   },
   "dependencies": {

@@ -35,4 +35,10 @@ This Knowledge Graph is viewable in Obsidian! Here are the steps
 ## Making Updates and Suggestions
 Updates to the content of the graph can be made via pull request to the  [Aleph Community Wiki](https://github.com/TinyCloudOrg/Aleph-Community-Wiki) repo. As graph generation improves fewer mistakes will be made. For communicating with the team working on this project, reach in the Aleph Telegram, via the Aleph Community Wiki channel.
 
+# Explore!
+You are already on the Aleph Community Wiki! Browse the side panel for nodes, explore the graph or check out some of these concepts or people below!
 
+- [[Aleph]]
+- [[Asado]]
+- [[Manon]]
+- [[QuarkID protocol]]
