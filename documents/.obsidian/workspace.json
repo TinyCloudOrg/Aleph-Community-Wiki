@@ -6,6 +6,7 @@
       {
         "id": "f3a32e4f4b4f43bf",
         "type": "tabs",
+        "dimension": 68.33791208791209,
         "children": [
           {
             "id": "c1b8cc7f94b5f7e1",
@@ -17,7 +18,51 @@
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "972a16b3ad6b06b2"
+          }
+        ]
+      },
+      {
+        "id": "67a9e88f73fd3a66",
+        "type": "tabs",
+        "dimension": 31.662087912087912,
+        "children": [
+          {
+            "id": "a2decb7ce737fb99",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "index.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6218921214915291,
+                  "close": false
+                }
+              }
+            },
+            "group": "972a16b3ad6b06b2"
           }
         ]
       }
@@ -48,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Man",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,11 +193,23 @@
   },
   "active": "c1b8cc7f94b5f7e1",
   "lastOpenFiles": [
-    "Juan Benet.md",
+    "topic/Future Plans and Goals.md",
+    "entity/person/Luciano.md",
+    "entity/person/Diego.md",
     "index.md",
+    "entity/person/Emmanuel Udotong.md",
+    "entity/person/Danny.md",
+    "topic/Interests and Hobbies.md",
+    "topic/Networking and Collaboration Opportunities.md",
+    "topic/Crypto and Blockchain Involvement.md",
+    "entity/person/Manon.md",
+    "entity/organization/Aleph.md",
+    "entity/person/Fran.md",
+    "entity/organization/DAppsFactory.md",
+    "entity/person/Horacio Lampe.md",
+    "Juan Benet.md",
     "topic/Events and Participation.md",
     "topic/Cultural Exchange and Activities.md",
-    "topic/Crypto and Blockchain Involvement.md",
     "entity/person/Tomas Gurvicius.md",
     "entity/person/Tomas.md",
     "entity/person/Tom.md",
@@ -162,18 +219,6 @@
     "entity/person/sweetman.eth.md",
     "entity/person/Sun.md",
     "entity/person/Suka.md",
-    "entity/person/Santi Cristobal.md",
-    "entity/person/Sam G.md",
-    "entity/person/Rebeca.md",
-    "entity/person/Pedro Henrich.md",
-    "entity/person/Pacu.md",
-    "entity/person/Pablo C.md",
-    "entity/person/Nikolay Kukushkin.md",
-    "entity/person/Nicolas Kenny.md",
-    "entity/person/Nicola Salvagni.md",
-    "entity/person/Nico.md",
-    "entity/person/Navy.md",
-    "entity/person/Nadia.md",
     "entity/concept"
   ]
 }
