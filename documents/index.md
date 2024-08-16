@@ -24,6 +24,7 @@ The content captured allows the ephemeral happenings at Aleph to be distilled in
 ## Information Sources
 - Telegram
 - Recordings via [Aleph Wiki Upload Tool](https://aleph-uploader.communitywiki.ai/)
+- [[Aleph Community Interviews]]
 
 # Engaging with the Wiki/ Knowledge Graph
 ## Viewing the Knowledge Graph in Obsidian

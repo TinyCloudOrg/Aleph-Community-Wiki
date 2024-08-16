@@ -6,9 +6,23 @@
       {
         "id": "f3a32e4f4b4f43bf",
         "type": "tabs",
+        "dimension": 63.11813186813187,
         "children": [
           {
             "id": "c1b8cc7f94b5f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "entity/concept/ETHSafari.xyz.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "aaa071f23528c472"
+          },
+          {
+            "id": "b49ca067d3a55471",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,6 +32,62 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "589b373bcbeac9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aleph Community Interviews.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "0b21c0e8e3ec7bca",
+        "type": "tabs",
+        "dimension": 36.88186813186813,
+        "children": [
+          {
+            "id": "f03e05758d056e5a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "entity/concept/ETHSafari.xyz.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.7606888738650712,
+                  "close": true
+                }
+              }
+            },
+            "group": "aaa071f23528c472"
           }
         ]
       }
@@ -85,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Aleph Community Interviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Aleph Community Interviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Aleph Community Interviews.md"
               }
             }
           }
@@ -146,34 +216,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1b8cc7f94b5f7e1",
+  "active": "589b373bcbeac9e4",
   "lastOpenFiles": [
-    "entity/organization/Aleph.md",
-    "entity/organization/QuarkID protocol.md",
     "index.md",
-    "entity/concept/Asado.md",
-    "entity/person/Manon.md",
-    "entity/person/bequita.md",
-    "entity/person/Agustín.md",
-    "entity/person/Danny.md",
-    "topic/Future Plans and Goals.md",
-    "entity/person/Luciano.md",
-    "entity/person/Diego.md",
-    "entity/person/Emmanuel Udotong.md",
-    "topic/Interests and Hobbies.md",
-    "topic/Networking and Collaboration Opportunities.md",
-    "topic/Crypto and Blockchain Involvement.md",
-    "entity/person/Fran.md",
-    "entity/organization/DAppsFactory.md",
+    "Aleph Community Interviews.md",
+    "entity/concept/ETHSafari.xyz.md",
+    "entity/person/Koko.md",
+    "entity/person/Sam G.md",
+    "entity/organization/TinyCloud.md",
+    "entity/person/Hunter Horsfall.md",
+    "entity/person/J P.md",
     "entity/person/Horacio Lampe.md",
-    "Juan Benet.md",
-    "topic/Events and Participation.md",
-    "topic/Cultural Exchange and Activities.md",
-    "entity/person/Tomas Gurvicius.md",
-    "entity/person/Tomas.md",
-    "entity/person/Tom.md",
-    "entity/person/tobias.md",
-    "entity/person/Thassya Stersi.md",
+    "entity/person/Gabriel.md",
+    "entity/person/Fran.md",
+    "entity/person/Fede Secchi.md",
+    "entity/person/Fabiola.md",
+    "entity/person/Fabi Async.md",
+    "entity/person/Emmanuel Udotong.md",
+    "entity/person/DNAngeluS.md",
+    "entity/person/Cypherbadger.md",
+    "entity/person/Blockya.md",
+    "entity/person/Sun.md",
+    "entity/organization/The mu.md",
+    "entity/organization/Vitalia.city.md",
+    "entity/organization/Aleph.md",
+    "entity/person/bequita.md",
+    "entity/person/Navy.md",
+    "entity/person/João Pirola.md",
+    "topic/Interests and Hobbies.md",
     "entity/concept"
   ]
 }
