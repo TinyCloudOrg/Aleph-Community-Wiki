@@ -9,7 +9,7 @@ tags:
 description: A wiki and knowledge graph capturing the ongoings of Aleph, Cuidad de Crecimiento
 ---
 # Aleph Community Wiki
-
+![[wiki.gif]]
 A wiki and knowledge graph capturing the ongoings of [Aleph, Cuidad de Crecimiento](https://aleph.crecimiento.build/).
 ## Overview
 

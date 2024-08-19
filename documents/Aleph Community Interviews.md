@@ -9,6 +9,11 @@ description: A guide for conducting interviews at Aleph events to contribute to 
 ---
 # Aleph Community Interview Instructions
 
+## Overview
+The goal of the Aleph Community Wiki is to capture what's happening at Aleph. We are capturing talks, and pulling in data from the telegram, but how do we find out about the great people here? **By interviewing them!**
+
+Aleph Community Interviews are short interviews that anyone can give to capture a person and organization here at Aleph.
+
 ## Introduction
 - Approach the interviewee and introduce yourself
 - Explain that you're conducting interviews for the Aleph Community Wiki

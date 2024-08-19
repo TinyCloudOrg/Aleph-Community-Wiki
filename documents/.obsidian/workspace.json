@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entity/concept/ETHSafari.xyz.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,14 +39,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aleph Community Interviews.md",
+                "file": "entity/organization/Crecimiento.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "0b21c0e8e3ec7bca",
@@ -59,7 +58,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "entity/concept/ETHSafari.xyz.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aleph Community Interviews.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aleph Community Interviews.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aleph Community Interviews.md"
+                "file": "index.md"
               }
             }
           }
@@ -216,11 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "589b373bcbeac9e4",
+  "active": "990873c3b794f037",
   "lastOpenFiles": [
-    "index.md",
+    "wiki.gif",
     "Aleph Community Interviews.md",
+    "index.md",
     "entity/concept/ETHSafari.xyz.md",
+    "entity/organization/Crecimiento.md",
+    "topic/Events and Participation.md",
     "entity/person/Koko.md",
     "entity/person/Sam G.md",
     "entity/organization/TinyCloud.md",
@@ -241,9 +243,6 @@
     "entity/organization/Vitalia.city.md",
     "entity/organization/Aleph.md",
     "entity/person/bequita.md",
-    "entity/person/Navy.md",
-    "entity/person/João Pirola.md",
-    "topic/Interests and Hobbies.md",
     "entity/concept"
   ]
 }
