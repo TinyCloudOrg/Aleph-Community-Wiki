@@ -1,92 +1,23 @@
 {
   "main": {
-    "id": "13f48bf103d600d1",
+    "id": "a9896fb62b661ae6",
     "type": "split",
     "children": [
       {
-        "id": "f3a32e4f4b4f43bf",
+        "id": "4a4107e770b54222",
         "type": "tabs",
-        "dimension": 63.11813186813187,
         "children": [
           {
-            "id": "c1b8cc7f94b5f7e1",
+            "id": "81a4b5f534c54875",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "aaa071f23528c472"
-          },
-          {
-            "id": "b49ca067d3a55471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "entity/person/Pablo C.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "589b373bcbeac9e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "entity/organization/Crecimiento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b21c0e8e3ec7bca",
-        "type": "tabs",
-        "dimension": 36.88186813186813,
-        "children": [
-          {
-            "id": "f03e05758d056e5a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "index.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.7606888738650712,
-                  "close": true
-                }
-              }
-            },
-            "group": "aaa071f23528c472"
           }
         ]
       }
@@ -94,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "72d144fc270f4f06",
+    "id": "5cc5eef65f1248cd",
     "type": "split",
     "children": [
       {
-        "id": "e11ec5284e063898",
+        "id": "31d1d223df89666f",
         "type": "tabs",
         "children": [
           {
-            "id": "990873c3b794f037",
+            "id": "9eb8eff4b488ba9c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,12 +43,12 @@
             }
           },
           {
-            "id": "3af3a6a01f8b8400",
+            "id": "38eeca4929fa0258",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Man",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +58,7 @@
             }
           },
           {
-            "id": "329eded186e6be7a",
+            "id": "031a9a83d506ac9f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -141,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "58b6a3b6357ba223",
+    "id": "51079f9c6c7ea3c6",
     "type": "split",
     "children": [
       {
-        "id": "0d8d2b22e751c7a5",
+        "id": "ae68c90eae28fecc",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b05f6c0d1dd364",
+            "id": "79e3978fd432a70b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "entity/person/Pablo C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,19 +97,19 @@
             }
           },
           {
-            "id": "0ab35f1c0e617bf5",
+            "id": "2498f15e5c53bf10",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "entity/person/Pablo C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7355338eba05ea80",
+            "id": "7625b2eeebe827c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -189,12 +120,12 @@
             }
           },
           {
-            "id": "c22c3cc9d779223e",
+            "id": "e7fd179a0f6bb048",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "entity/person/Pablo C.md"
               }
             }
           }
@@ -215,34 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "990873c3b794f037",
+  "active": "81a4b5f534c54875",
   "lastOpenFiles": [
-    "wiki.gif",
-    "Aleph Community Interviews.md",
-    "index.md",
-    "entity/concept/ETHSafari.xyz.md",
-    "entity/organization/Crecimiento.md",
-    "topic/Events and Participation.md",
-    "entity/person/Koko.md",
-    "entity/person/Sam G.md",
-    "entity/organization/TinyCloud.md",
-    "entity/person/Hunter Horsfall.md",
-    "entity/person/J P.md",
-    "entity/person/Horacio Lampe.md",
-    "entity/person/Gabriel.md",
-    "entity/person/Fran.md",
-    "entity/person/Fede Secchi.md",
-    "entity/person/Fabiola.md",
-    "entity/person/Fabi Async.md",
-    "entity/person/Emmanuel Udotong.md",
-    "entity/person/DNAngeluS.md",
-    "entity/person/Cypherbadger.md",
-    "entity/person/Blockya.md",
-    "entity/person/Sun.md",
-    "entity/organization/The mu.md",
-    "entity/organization/Vitalia.city.md",
-    "entity/organization/Aleph.md",
-    "entity/person/bequita.md",
-    "entity/concept"
+    "entity/person/Nicolas Kenny.md",
+    "entity/organization/Matter Labs.md",
+    "entity/person/Porter Adams.md",
+    "entity/organization/Worldcoin.md",
+    "summary/Mentors and Their Knowledge Domains for Aleph Startups.md"
   ]
 }

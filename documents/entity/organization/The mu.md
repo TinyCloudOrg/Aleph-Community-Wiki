@@ -1,39 +1,49 @@
 ---
-
-title: The mu
-tags: [organization, tech, blockchain, co-founders]
-description: An organization co-founded by members involved with the Aleph project, focusing on various tech and blockchain-related initiatives.
-
+title: "The Mu"
+description: "The Mu is a project and organization involved with Aleph and Crecimiento, with members mainly from Argentina and beyond. The organization seems to play a major role in community building and organizing various events, including the `mubuenos` event held in March in Buenos Aires."
+tags: ["Aleph", "Crecimiento", "Community Building", "Events"]
 ---
 
 ## Overview
+The Mu is an organization deeply integrated with the [[Aleph]] and [[Crecimiento]] communities. It is partly responsible for community engagement and the organization of events. The Mu has a notable presence at various events, such as the `mubuenos` event held in March in Buenos Aires.
 
-**[[The mu]]** is an organization with a notable presence within the [[Aleph]] project and community. It has been co-founded by influential members who are actively shaping its direction and operations.
+## Key Members
+### [[Manon]]
+- **Role**: Part of the Aleph Core team, co-founder of The Mu.
+- **Responsibilities**: Side events/unconference, Telegram moderation, and ensuring community happiness.
 
-### Key Individuals
-- **[[Manon]]**: Co-founder and a part of the [[Aleph Core Team]]. She is responsible for organizing side events, moderating Telegram, and ensuring community happiness. Her interests include food exploration, deep conversations, and working out.
-- **[[Sun]]**: Another co-founder involved with [[Crecimiento]] and [[Aleph]]. Sun focuses on funding and week 2 crypto use cases and is passionate about business discussions, nature, and asado.
+### [[Sun]]
+- **Role**: Core team member in Crecimiento/Aleph.
+- **Responsibilities**: Funding, Week 2 Crypto use cases, and working on an African version of Crecimiento.
 
-### Responsibilities and Interests
-- The mu is actively involved in organizing side events and unconferences for the Aleph project.
-- Their team focuses on moderation and fostering a positive community environment.
-- They have a keen interest in engaging discussions surrounding business, technology, and cultural exchanges.
+### [[Santi Cristobal]]
+- **Role**: Core team member of The Mu.
+- **About**: Known for his love for mountains, football, and biking. Also contributes to various Aleph initiatives.
 
-### Related Entities and Concepts
-- **[[Aleph]]**: A major collaborative project which several team members of The mu are a part of.
-- **[[Crecimiento]]**: Another initiative closely linked with The mu, connecting its members with Aleph's broader goals.
+## Major Activities
+### mubuenos
+- **Details**: An event held in March in Buenos Aires aimed at engaging and building the community around Aleph and The Mu. It served as a significant networking and educational opportunity for participants.
 
-### Activities and Cultural Engagement
-Members of The mu are heavily involved in cultural exchanges and activities such as:
-- **Food and Asados**: Enthusiasts like Manon and Sun integrate culinary exploration into their community engagements.
-- **Outdoor Activities and Discussions**: Interests span from working out and nature to deep talks on economic and technological advancements.
+### African Version of Crecimiento
+- **Details**: An ongoing initiative by team members, including Sun, to expand their community-building and educational initiatives to Africa.
 
-## Key Contributions
-- **Community Building**: Consistent contribution to building a cohesive and interactive community through various events and direct engagement.
-- **Tech and Blockchain Development**: Involvement in innovative tech solutions swarming around blockchain and crypto use cases.
-- **Global Perspectives**: Bringing diverse perspectives and cultural backgrounds from countries like France and China into the projects they handle.
+## Community Engagement
+The Mu is keen on fostering a sense of community through various activities and responsibilities:
+- **Community Events**: Organizing and coordinating side events and unconferences.
+- **Discussions**: Engaging in deep conversations about business, crypto use cases, and personal interests.
+- **Support**: Providing support and cheerleading for community members.
 
----
+## Always Down For...
+- **Manon**: Food exploration, working out, deep talking, going to parties like La Bresh, cheering people up, and complaining about medialunas.
+- **Sun**: Talking about business, touching the grass, and ASADOOOO!!!
+
+## Links and References
+- [[Aleph]]
+- [[Crecimiento]]
+- [The Mu](https://www.instagram.com/p/C3LMpzyJEW5/)
+
+The Mu members hail from diverse backgrounds and are united by their enthusiasm for community-building and the crypto ecosystem. Their contributions significantly enhance the outreach and effectiveness of the Aleph and Crecimiento initiatives.
+
 ---
 This content was generated by AutoGraph, a [TinyCloud](https://tinycloud.xyz/) product.
-Generated at  Thu, 08 Aug 2024 21:06:16 GMT
+Generated at Fri, 23 Aug 2024 20:58:27 GMT

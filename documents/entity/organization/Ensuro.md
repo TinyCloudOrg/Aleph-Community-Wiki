@@ -1,48 +1,38 @@
 ---
-title: Ensuro
-tags: [organization, blockchain, DeFi, reinsurance]
-description: Ensuro is a blockchain-based reinsurance company co-founded by [[Guillo]], serving as the CTO, and [[Marco Mirabella]], who serves as the CEO. The company focuses on integrating blockchain technology into the reinsurance industry.
+title: "Ensuro"
+description: "Ensuro is a blockchain-based reinsurance company founded in 2021. The company focuses on utilizing blockchain technology to offer innovative solutions in the reinsurance industry."
+tags: ["blockchain", "reinsurance", "insurance", "crypto", "startups"]
 ---
-## Overview
-[[Ensuro]] is a pioneering organization in the blockchain-based reinsurance sector. It leverages decentralized finance (DeFi) principles to innovate traditional reinsurance processes. Ensuro's approach enables the use of smart contracts for reinsurance agreements, aiming to streamline operations, improve transparency, and enhance efficiency in the industry.
 
-## Key Individuals
-- **[[Guillo]]**: Co-founder and CTO. Guillo has a background in crypto, DeFi, and the broader economy. He enjoys discussing politics, blockchain, and cycling.
-- **[[Marco Mirabella]]**: CEO. Marco has international experience, having lived in Taiwan and China before moving to Buenos Aires. He is passionate about asado, running, and economic discussions.
+### About Ensuro
 
-## Interests & Activities
-- Enthusiasts within Ensuro engage in:
-  - **Blockchain and DeFi**: Both Guillo and Marco are deeply interested in how blockchain technology and decentralized finance can transform traditional financial sectors.
-  - **Cycling**: Guillo enjoys cycling and likely values the physical and mental benefits it provides.
-  - **Outdoor and Social Activities**: Marco enjoys running, asado, indicating a balanced lifestyle with social and physical activities.
+Ensuro is a blockchain-based [[reinsurance]] company founded in 2021. Ensuro leverages blockchain technology to provide innovative reinsurance solutions aimed at improving efficiency, transparency, and security in the insurance sector.
 
-## Affiliations and Community
-- [[Ensuro]] is part of a broader ecosystem that includes:
-  - **[[Sun]]** from the [[Aleph]] core team, which focuses on funding and crypto use cases.
-  - **[[Laín]]**, coordinating operations for [[Startups Aleph]] and enjoying Argentine culture.
-  - **[[Nico]]**, an SRE for [[Triton One]], engaged in the Solana ecosystem.
-  - **[[Fede Secchi]]**, handling venues and hackathons within Aleph and enjoying extreme sports.
+### Key People
 
-- Additionally, Ensuro collaborates with a network of individuals and organizations deeply embedded in the blockchain and crypto space, such as participants from the [[#ETHSafari.xyz]], [[Vitalia.city]], [[QuarkID protocol]], and various others.
+- **[[Guillo]]**: Co-founder and CTO based in Buenos Aires. He has a background in blockchain and is keen on discussing topics related to crypto, DeFi, economics, and politics.
+- **[[Marco Mirabella]]**: CEO of Ensuro. Originally from Italy, Marco has lived in Asia before moving to Buenos Aires. He enjoys discussing economy and DeFi, and engaging in activities like running and asados.
 
-## Cultural and Social Activities
-- **Asado and Food**: Asado and food exploration are common interests among [[Ensuro]] personnel, reflecting their cultural immersion and social engagement patterns.
-- **Community Engagement**: They are highly active in community-building activities within the blockchain and DeFi sectors, aiming to foster innovation and collaboration.
+### Headquarters and Areas of Operation
 
-## Key Concepts and Technologies
-- **Blockchain Technology**: Central to Ensuro's operations, enabling transparent, secure, and efficient reinsurance solutions.
-- **Decentralized Finance (DeFi)**: They leverage DeFi principles to enhance reinsurance processes, potentially lowering costs and increasing accessibility.
+Ensuro’s headquarters are located in [[Buenos Aires]], but the company is also interconnected with various global regions due to its blockchain nature. 
 
-## Related Entities
-- **[[Aleph]]**: Collaboration with Aleph for events, funding activities, and community support.
-- **[[Startups Aleph]]**: Engagement with startup operations and innovations.
-- **[[Triton One]]**: Partnership within the Solana ecosystem for technical and development support.
-- **[[Vitalia.city]]**: Shared interests in bio-enhancement and frontier technologies.
-- **[[QuarkID protocol]]**: Collaboration in innovative identity and blockchain solutions.
+### Always Down For
 
-Ensuro stands as a leading example of how blockchain can be applied to traditional industries, demonstrating the potential of decentralized technologies in transforming reinsurance.
+- Conversations about crypto, decentralized finance (DeFi), economy, and politics.
+- Engaging in a community bike tour or running in Parque de [[Palermo]].
+- Enjoying an asado and sharing insights on economy, DeFi, and traveling.
 
----
+### Notable Projects and Contributions
+
+Ensuro aims to revolutionize the reinsurance industry using blockchain technology. They are involved in:
+- Offering comprehensive and transparent reinsurance policies.
+- Enhancing security measures in the insurance sector using blockchain.
+
+### Community Engagement
+
+The Ensuro team is actively involved in the local and global blockchain communities. Guillo and Marco participate in various events and initiatives, fostering discussions around blockchain innovations and their applications in reinsurance.
+
 ---
 This content was generated by AutoGraph, a [TinyCloud](https://tinycloud.xyz/) product.
-Generated at  Thu, 08 Aug 2024 21:06:16 GMT
+Generated at Fri, 23 Aug 2024 20:58:27 GMT
